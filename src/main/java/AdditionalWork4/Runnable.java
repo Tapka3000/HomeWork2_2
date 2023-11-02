@@ -1,5 +1,5 @@
 package AdditionalWork4;
 
-public interface Runnable {
-    void run();
+interface Runnable {
+    void run(String str);
 }
